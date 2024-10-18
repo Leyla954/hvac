@@ -1,0 +1,231 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none !important;
+    box-sizing: border-box;
+}
+
+header .container .links a {
+    color: #000;
+}
+
+header .container .logo {
+    width: 160px;
+    height: 100px;
+    background-color: #000;
+}
+
+header .container .number {
+    width: 35%;
+    height: 40px;
+    font-size: 23px;
+    font-weight: bold;
+    color: rgb(102, 147, 219);
+    border: 1px solid orange;
+}
+
+.contact-us {
+    position: relative;
+    height: 700px;
+    background-image: url(https://preview.colorlib.com/theme/hvacompany/img/hero/hero-1.jpg.webp);
+}
+
+.contact-us .container {
+    padding-top: 150px;
+}
+
+.contact-us .text {
+    width: 45%;
+    background-color: #fff;
+}
+
+.contact-us .text h1 {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.contact-us .text button {
+    padding: 10px 30px;
+    border: none;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: rgb(230, 201, 74);
+    transition: 0.6s;
+}
+
+.contact-us .text button:hover {
+    color: #fff;
+}
+
+.cards h4 {
+    font-size: 20px;
+}
+
+.cards img {
+    width: 5rem;
+}
+
+.cards button {
+    padding: 30px;
+    border: 1px solid rgb(229, 222, 222);
+    background-color: #fff;
+    position: absolute;
+    top: 100%;
+}
+
+.form {
+    color: #fff;
+    padding-top: 10rem;
+}
+
+.form form {
+    background-color: rgb(102, 147, 219);
+    padding: 30px 0 20px 30px;
+}
+
+.form input {
+    border: 1px solid #fff;
+    background-color: transparent;
+    outline: none;
+    padding: 15px 10px;
+    width: 80%;
+    margin: 15px 0;
+}
+
+.form select {
+    border: 1px solid #fff;
+    background-color: transparent;
+    outline: none;
+    padding: 15px 10px;
+    width: 80%;
+    margin: 15px 0;
+}
+
+.form textarea {
+    border: 1px solid #ffffff;
+    background-color: transparent;
+    outline: none;
+    padding: 15px 10px;
+    width: 90.5%;
+    height: 150px;
+    margin: 15px 0;
+}
+
+.form input::placeholder {
+    color: #fff;
+}
+
+.form textarea::placeholder {
+    color: #fff;
+}
+
+.form button {
+    padding: 10px 30px;
+    border: none;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    background-color: rgb(230, 201, 74);
+}
+
+.form .img {
+    width: 50%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    background-image: url(https://preview.colorlib.com/theme/hvacompany/img/quote-video.jpg.webp);
+}
+
+.form .img i {
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    border-radius: 50%;
+    color: #fff;
+    background-color: rgb(102, 147, 219);
+}
+
+.call-us {
+    position: absolute;
+    left: 6rem;
+    top: 110rem;
+}
+
+.call-us .container {
+    width: 85rem;
+    height: 150px;
+    background-color: rgb(102, 147, 219);
+
+}
+
+.call-us .first span {
+    color: rgb(230, 201, 74);
+}
+
+.call-us h1 {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.call-us img {
+    width: 6rem;
+    height: 6rem;
+}
+
+.call-us .number p {
+    color: rgb(230, 201, 74);
+    font-size: 50px;
+}
+
+footer {
+    margin-top: 15rem;
+}
+
+footer .container {
+    padding-top: 7rem;
+    width: 100%;
+    height: 600px;
+}
+
+footer h4 {
+    color: #fff;
+    font-weight: bold;
+}
+
+footer p {
+    font-weight: bold;
+    font-size: 15px;
+    color: #fff;
+}
+
+footer i {
+    color: #fff;
+}
+
+footer span {
+    font-size: 14px;
+    color: #fff;
+}
+
+footer input {
+    padding: 10px;
+    width: 90%;
+    outline: none;
+    border: 1px solid #fff;
+    background-color: transparent;
+}
+
+footer button {
+    padding: 10px 30px;
+    border: none;
+    font-size: 15px;
+    background-color: rgb(230, 201, 74);
+
+}
